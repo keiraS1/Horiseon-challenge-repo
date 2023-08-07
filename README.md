@@ -4,7 +4,7 @@
 
 The purpose to this project was to refactor starter code. I made sure that there was accessibility within the code so it was easier to understand the webpage. I also made sure the links were all in check so that the webpage was functioning and complete. Both HTML and CSS were improved to increase the functionality of the site.
 
-![Horiseon refactored starter code webpage screenshot](./Develop/assets/images/screenshot%20Horiseon%20webpage.png)
+![Horiseon refactored starter code webpage screenshot](./assets/images/screenshot%20Horiseon%20webpage.png)
 
 *The screenshot provided is a preview of the refactored starter code. 
 
